@@ -9,6 +9,7 @@ This script can add a torrent to netgear downloader tool using CasperJS
 # Scripts
 
 addtorrent.js: Uses CasperJS to connect your router an add a torrent stored in NAS router.
+
 run_windows.cmd: Take all torrent files in a directory and copy them to NAS (using a shared drive) and runs addtorrent.js to add it to download queue of Netgear Downloader
 
 
